@@ -4,7 +4,7 @@ Support resources, FAQ, and contact information for the Gestern iOS app.
 Thanks for using Gestern!
 
 ## Contact
-For help, feedback, or bug reports, email: **YOUR_EMAIL_HERE**
+For help, feedback, or bug reports, email: **scott.carper@icloud.com**
 
 ## FAQ
 
